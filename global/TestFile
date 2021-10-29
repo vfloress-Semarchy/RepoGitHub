@@ -2,4 +2,8 @@ Test1
 Test2
 Test3 primero commit
 Test4 Prueba de fetch - Modificado en GitHub
+<<<<<<< HEAD
 Test4 Cambio en Local
+=======
+Test5 Prueba de fetch - Modificado en GitHub
+>>>>>>> branch 'master' of https://github.com/vfloress-Semarchy/RepoGitHub.git
